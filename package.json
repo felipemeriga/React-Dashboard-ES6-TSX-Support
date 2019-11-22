@@ -1,7 +1,7 @@
 {
   "name": "React-Dashboard-ES6-TS-Support",
   "version": "1.0.0",
-  "description": "React version of Argon Dashboard by Creative Tim",
+  "description": "React version of React-Dashboard-ES6-TS-Support by Felipe Ramos da Silva",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
     "argon-dashboard-react",
     "React-Dashboard-ES6-TS-Support"
   ],
-  "author": "Creative Tim",
+  "author": "Felipe Ramos da Silva",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/creativetimofficial/argon-dashboard-react/issues"

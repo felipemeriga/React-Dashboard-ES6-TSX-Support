@@ -1,9 +1,8 @@
-# [Argon Dashboard React](https://demos.creative-tim.com/argon-dashboard-react?ref=adr-github-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Argon%20Dashboard%20is%20a%20Free%20Bootstrap%204,%20React%20and%20Reactstrap%20Dashboard%20made%20using%20create-react-app%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//demos.creative-tim.com/argon-dashboard-react%20%23react%20%23reactstrap%20%23createreactapp%20%23argon%20%23argondesign%20%23reactdashboard%20%23argonreact%20%23reactdesign%20%23bootstrap%20%23material%20%23design%20%23uikit%20%23freebie%20%20via%20%40CreativeTim)
+# [React Dashboard ES6 TSX Support](https://github.com/felipemeriga/React-Dashboard-ES6-TSX-Support/blob/master/README.md) 
 
 
- ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/argon-dashboard-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-dashboard-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/argon-dashboard-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-dashboard-react/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
-
-
+ ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg) 
+ 
 ![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/argon-dashboard-react.gif)
 
 Start your development with a Dashboard for [Bootstrap 4](https://getbootstrap.com/?ref=creativetim), [React](https://reactjs.org/?ref=creativetim) and [Reactstrap](https://reactstrap.github.io/?ref=creativetim), made with [create-react-app](https://facebook.github.io/create-react-app/?ref=creativetim). It is open source, free and it features many components that can help you create amazing websites.
@@ -21,6 +20,11 @@ Each element is well presented in a very complex documentation. You can read mor
 **Example Pages**
 
 If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
+
+**ES6, TSX and Decorators Legacy Support**
+
+This sample, supports the most new tools and methodologies for developing in Javascript, offering support for
+ES6, where the babel plugins will transpile that to ES5, Typescript and also decorators.
 
 
 ## Table of Contents
@@ -69,12 +73,15 @@ If you want to get inspiration or just show something directly to your clients, 
 
 ## Quick start
 
-- `npm i argon-dashboard-react`
-- [Download from Github](https://github.com/creativetimofficial/argon-dashboard-react/archive/master.zip).
-- [Download from Creative Tim](https://www.creative-tim.com/product/argon-dashboard-react?ref=adr-github-readme).
-- Install with [Bower](https://bower.io/?ref=creativetim): ```bower install argon-dashboard-react```.
 - Clone the repo: `git clone https://github.com/creativetimofficial/argon-dashboard-react.git`.
+- `npm install`
+- `yarn install`
+- `yarn add node-sass`
+- `npm start`
 
+# Build
+
+- `npm run-script build`
 
 ## Documentation
 The documentation for the Material Kit is hosted at our [website](https://demos.creative-tim.com/argon-dashboard-react/documentation/overview).
